@@ -27,7 +27,7 @@ chmod +x brag_diary.py
 
 #### In GitHub
 
-1. Navigate to your repository's ```entries/ directory
+1. Navigate to your repository's ```entries/``` directory
 2. View markdown files directly on GitHub.
 3. Use history to see progression over time.
 
